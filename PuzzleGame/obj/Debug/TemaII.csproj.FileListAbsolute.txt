@@ -1,0 +1,11 @@
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\bin\Debug\TemaII.exe.config
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\bin\Debug\TemaII.exe
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\bin\Debug\TemaII.pdb
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.Form1.resources
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.Properties.Resources.resources
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.csproj.GenerateResource.cache
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.exe
+D:\an3\sem2\II\Lab\coduri\TemaII\TemaII\obj\Debug\TemaII.pdb

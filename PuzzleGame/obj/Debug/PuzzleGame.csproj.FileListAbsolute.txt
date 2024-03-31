@@ -1,0 +1,11 @@
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+D:\an3\sem2\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
